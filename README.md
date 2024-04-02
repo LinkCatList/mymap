@@ -6,12 +6,17 @@
 
 ```
 Average goodMap: 
-Average insert: 0.0006651157
-Average search: 0.0002364875
-Average remove: 0.0002682219
+Average insert: 0.0006203100
+Average search: 0.0002221242
+Average remove: 0.0002506444
 
 Average badMap: 
-Average insert: 0.0011942057
-Average search: 0.0002357547
-Average remove: 0.0008074904
+Average insert: 0.0011048743
+Average search: 0.0002226678
+Average remove: 0.0007613876
+
+Average StdMap: 
+Average insert: 0.0006733801
+Average search: 0.0000009431
+Average remove: 0.0001799304
 ```
